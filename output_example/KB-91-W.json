@@ -1,0 +1,61 @@
+{
+    "kbid": "KB-91-W",
+    "hrid": "Abraham Lincoln (KB-91-W)",
+    "descriptions": {
+        "cs": "americký politik",
+        "en": "16th president of the United States (1809-1865)"
+    },
+    "ids": {
+        "freebase": "/m/0gzh",
+        "wikidata": "Q91"
+    },
+    "labels": {
+        "cs": {
+            "Lincoln": {
+                "text": "Lincoln",
+                "stability": -10
+            },
+            "Honest Abe": {
+                "text": "Honest Abe"
+            },
+            "Abe Lincoln": {
+                "text": "Abe Lincoln"
+            },
+            "Abraham Lincoln": {
+                "text": "Abraham Lincoln"
+            }
+        },
+        "en": {
+            "Abe Lincoln": {
+                "text": "Abe Lincoln"
+            },
+            "President Lincoln": {
+                "text": "President Lincoln"
+            },
+            "Lincoln": {
+                "text": "Lincoln",
+                "stability": -10
+            },
+            "Uncle Abe": {
+                "text": "Uncle Abe"
+            },
+            "Honest Abe": {
+                "text": "Honest Abe"
+            },
+            "A. Lincoln": {
+                "text": "A. Lincoln"
+            },
+            "Abraham Lincoln": {
+                "text": "Abraham Lincoln"
+            }
+        }
+    },
+    "stdforms": {
+        "cs": "Abraham Lincoln",
+        "en": "Abraham Lincoln"
+    },
+    "rankings": {
+        "wikilinks": -1
+    },
+    "type": "empty"
+}

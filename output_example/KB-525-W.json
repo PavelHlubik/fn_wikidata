@@ -1,0 +1,57 @@
+{
+    "kbid": "KB-525-W",
+    "hrid": "Sol (KB-525-W)",
+    "descriptions": {
+        "cs": "hvězda ve středu naší sluneční soustavy",
+        "en": "star at the centre of the Solar System"
+    },
+    "ids": {
+        "freebase": "/m/06m_p",
+        "wikidata": "Q525"
+    },
+    "labels": {
+        "cs": {
+            "Sol": {
+                "text": "Sol",
+                "stability": -10
+            },
+            "Slunce": {
+                "text": "Slunce",
+                "stability": -10
+            }
+        },
+        "en": {
+            "☉": {
+                "text": "☉",
+                "stability": -10
+            },
+            "Helios": {
+                "text": "Helios",
+                "stability": -10
+            },
+            "🌞": {
+                "text": "🌞",
+                "stability": -10
+            },
+            "the Sun": {
+                "text": "the Sun"
+            },
+            "Sun": {
+                "text": "Sun",
+                "stability": -10
+            },
+            "Sol": {
+                "text": "Sol",
+                "stability": -10
+            }
+        }
+    },
+    "stdforms": {
+        "cs": "Slunce",
+        "en": "Sol"
+    },
+    "rankings": {
+        "wikilinks": -1
+    },
+    "type": "empty"
+}

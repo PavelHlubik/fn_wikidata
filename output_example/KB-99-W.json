@@ -1,0 +1,55 @@
+{
+    "kbid": "KB-99-W",
+    "hrid": "California (KB-99-W)",
+    "descriptions": {
+        "en": "state of the United States of America",
+        "cs": "stát Spojených států amerických"
+    },
+    "ids": {
+        "freebase": "/m/01n7q",
+        "wikidata": "Q99"
+    },
+    "labels": {
+        "cs": {
+            "California": {
+                "text": "California",
+                "stability": -10
+            },
+            "State of California": {
+                "text": "State of California"
+            },
+            "Kalifornie": {
+                "text": "Kalifornie",
+                "stability": -10
+            }
+        },
+        "en": {
+            "CA": {
+                "text": "CA",
+                "stability": -10
+            },
+            "Calif.": {
+                "text": "Calif.",
+                "stability": -10
+            },
+            "The Golden State": {
+                "text": "The Golden State"
+            },
+            "State of California": {
+                "text": "State of California"
+            },
+            "California": {
+                "text": "California",
+                "stability": -10
+            }
+        }
+    },
+    "stdforms": {
+        "cs": "Kalifornie",
+        "en": "California"
+    },
+    "rankings": {
+        "wikilinks": -1
+    },
+    "type": "empty"
+}

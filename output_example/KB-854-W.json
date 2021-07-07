@@ -1,0 +1,88 @@
+{
+    "kbid": "KB-854-W",
+    "hrid": "Sri Lanka (KB-854-W)",
+    "descriptions": {
+        "en": "Sovereign state in South Asia, situated on an island in the Indian Ocean",
+        "cs": "stát v jižní Asii"
+    },
+    "ids": {
+        "freebase": "/m/06m_5",
+        "wikidata": "Q854"
+    },
+    "labels": {
+        "cs": {
+            "Srílanská demokratická socialistická republika": {
+                "text": "Srílanská demokratická socialistická republika"
+            },
+            "Srí Lanka": {
+                "text": "Srí Lanka"
+            },
+            "Šrí Lanka": {
+                "text": "Šrí Lanka"
+            }
+        },
+        "en": {
+            "lke": {
+                "text": "lke",
+                "stability": -10
+            },
+            "Ceylan": {
+                "text": "Ceylan",
+                "stability": -10
+            },
+            "lk": {
+                "text": "lk",
+                "stability": -10
+            },
+            "Lanka, Sri": {
+                "text": "Lanka, Sri"
+            },
+            "Srilanka": {
+                "text": "Srilanka",
+                "stability": -10
+            },
+            "sri": {
+                "text": "sri",
+                "stability": -10
+            },
+            "Democratic Socialist Republic of Sri Lanka": {
+                "text": "Democratic Socialist Republic of Sri Lanka"
+            },
+            "Ceylon": {
+                "text": "Ceylon",
+                "stability": -10
+            },
+            "ce": {
+                "text": "ce",
+                "stability": -10
+            },
+            "Taprobane": {
+                "text": "Taprobane",
+                "stability": -10
+            },
+            "Serendib": {
+                "text": "Serendib",
+                "stability": -10
+            },
+            "SRI": {
+                "text": "SRI",
+                "stability": -10
+            },
+            "🇱🇰": {
+                "text": "🇱🇰",
+                "stability": -10
+            },
+            "Sri Lanka": {
+                "text": "Sri Lanka"
+            }
+        }
+    },
+    "stdforms": {
+        "cs": "Šrí Lanka",
+        "en": "Sri Lanka"
+    },
+    "rankings": {
+        "wikilinks": -1
+    },
+    "type": "empty"
+}

@@ -1,0 +1,71 @@
+{
+    "kbid": "KB-62-W",
+    "hrid": "San Francisco (KB-62-W)",
+    "descriptions": {
+        "en": "consolidated city-county in California, United States",
+        "cs": "město v USA"
+    },
+    "ids": {
+        "freebase": "/m/0d6lp",
+        "wikidata": "Q62"
+    },
+    "labels": {
+        "cs": {
+            "San Francisco": {
+                "text": "San Francisco"
+            }
+        },
+        "en": {
+            "San Francisco County": {
+                "text": "San Francisco County"
+            },
+            "SFO": {
+                "text": "SFO",
+                "stability": -10
+            },
+            "San Francisco, California": {
+                "text": "San Francisco, California"
+            },
+            "Paris of the West": {
+                "text": "Paris of the West"
+            },
+            "Frisco": {
+                "text": "Frisco",
+                "stability": -10
+            },
+            "The City by the Bay": {
+                "text": "The City by the Bay"
+            },
+            "SF": {
+                "text": "SF",
+                "stability": -10
+            },
+            "San Francisco County, California": {
+                "text": "San Francisco County, California"
+            },
+            "The Golden City": {
+                "text": "The Golden City"
+            },
+            "San Fran": {
+                "text": "San Fran"
+            },
+            "Baghdad by the Bay": {
+                "text": "Baghdad by the Bay"
+            },
+            "City and County of San Francisco": {
+                "text": "City and County of San Francisco"
+            },
+            "San Francisco": {
+                "text": "San Francisco"
+            }
+        }
+    },
+    "stdforms": {
+        "cs": "San Francisco",
+        "en": "San Francisco"
+    },
+    "rankings": {
+        "wikilinks": -1
+    },
+    "type": "empty"
+}
